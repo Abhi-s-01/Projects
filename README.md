@@ -29,4 +29,4 @@ This project involves data analytics for the Cricket World Cup, utilizing Python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Abhi-s-01/cricket-world-cup-analytics.git
+git clone https://github.com/Abhi-s-01/Projects.git
